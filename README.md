@@ -7,6 +7,8 @@ Just making some simple Chrome extensions from developer.chrome.com
 1. _hello_: Simple "Hello World" type extension
 1. _reading-time_: runs script on every page to give reading time
 1. _focus-mode_: Simplify the styling of the chrome web store docs
+1. _corona_: Shows the number of corona virus deaths using the UK public endpoint
+1. _hockey-scores_: Popup with hockey scores from NHL.com, WORK IN PROGRESS
 
 ## Extras
 

@@ -1,0 +1,20 @@
+{
+  "name": "Hockey Scores",
+  "version": "1.0.0",
+  "description": "Current hockey scores using the NHL data and formatted nice using bootstrap",
+  "manifest_version": 3,
+  "author": "Matt Thebert",
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "Hockey Scores"
+  },
+  "host_permissions": [
+    "https://api-web.nhle.com/*"
+  ],
+  "icons": {
+    "16": "images/icon-hockey-16.png",
+    "32": "images/icon-hockey-32.png",
+    "48": "images/icon-hockey-48.png",
+    "128": "images/icon-hockey-128.png"
+  }
+}
