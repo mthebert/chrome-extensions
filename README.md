@@ -4,10 +4,16 @@ Just making some simple Chrome extensions from developer.chrome.com
 
 ## Extensions Included:
 
-1. \_Hello: Simple "Hello World" type extension
+1. _hello_: Simple "Hello World" type extension
+1. _reading-time_: runs script on every page to give reading time
+1. _focus-mode_: Simplify the styling of the chrome web store docs
 
 ## Extras
 
-Using `web-extension` VS Code plugin for autocomplete on the Chrome extension API
+Using `web-extension` [VS Code plugin](https://github.com/vaibhavhrt/web-extension) for autocomplete on the Chrome extension API
 
-To debug extensions - [https://developer.chrome.com/docs/extensions/get-started/tutorial/debug](Debug Extensions)
+See docs [To debug extensions](https://developer.chrome.com/docs/extensions/get-started/tutorial/debug)
+
+For [Chrome Extension Docs](https://developer.chrome.com/docs/extensions)
+
+Instructions [to publish in Chrome Web Store](https://developer.chrome.com/docs/webstore/publish)
